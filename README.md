@@ -1,15 +1,17 @@
-# unplugin-vue-router Demo
+# vue-router-unplugin-breadcrumbs
 
-This is the demo project for [unplugin-vue-router](https://github.com/posva/unplugin-vue-router). You can test it on [StackBlitz](https://stackblitz.com/github/posva/uvr-demo).
+This the demo project is based on [StackBlitz](https://stackblitz.com/github/posva/uvr-demo).
+
+UI: Vueify
 
 ## Project Setup
 
 ```sh
-pnpm install
+yarn
 ```
 
 ### Compile and Hot-Reload for Development
 
 ```sh
-pnpm run dev
+yarm  dev
 ```
