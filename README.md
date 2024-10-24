@@ -1,6 +1,10 @@
 # vue-router-unplugin-breadcrumbs
 
-This the demo project is based on [StackBlitz](https://stackblitz.com/github/posva/uvr-demo).
+
+See demo on [StackBlitz](https://stackblitz.com/~/github.com/ricardo17coelho/vue-router-unplugin-breadcrumbs).
+
+This the demo project is based on
+
 
 UI: Vueify
 
