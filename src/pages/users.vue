@@ -1,8 +1,9 @@
-
-
 <template>
-<div>USERS AWESOME LAYOUT</div>
-<router-view></router-view>
+    <v-container>
+        <v-card variant="outlined" title="USERS AWESOME LAYOUT">
+            <v-card-text>
+                <router-view></router-view>
+            </v-card-text>
+        </v-card>
+    </v-container>
 </template>
-<script setup lang="ts">
-</script>

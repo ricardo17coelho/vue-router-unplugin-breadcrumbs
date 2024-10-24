@@ -29,7 +29,9 @@
       :items="breadcrumbs"
     >
       <template #prepend>
-        <v-icon icon="mdi-view-dashboard" size="small"></v-icon>
+        <v-btn to="/" icon size="small">
+          <v-icon icon="mdi-view-dashboard"></v-icon>
+        </v-btn>
       </template>
     </v-breadcrumbs>
   </v-container>
